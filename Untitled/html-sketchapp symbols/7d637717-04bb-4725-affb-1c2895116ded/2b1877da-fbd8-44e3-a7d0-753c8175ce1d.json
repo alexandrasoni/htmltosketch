@@ -1,0 +1,49 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAkJSYnKCkqKy83ODk6O0JGR0hUVVZXWFpmamtVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANWYnV0dG9u0xESChMbI1dOUy5rZXlzWk5TLm9iamVjdHOnFBUWFxgZGoAEgAWABoAHgAiACYAKpxwdHR8gISKAC4ATgBOAFIAVgBuAHYAaXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QD05TU3RyaWtldGhyb3VnaFtOU1VuZGVybGluZV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtIKLC0uXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCjAzNqIxMoANgA6iNDWAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QD0dlb2dyYXBoLU1lZGl1bdI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yIwAAAAAAAAAAIz/wAAAAAAAA0xESCklOI6RKS0xNgBaAF4AYgBmkHR8dHYATgBSAE4ATgBpTcmVkVWFscGhhVGJsdWVVZ3JlZW7SPD1AWaJAQdcKW1xdXl9gYWJHY2RkZVpOU1RhYlN0b3BzXxAUTlNMaW5lSGVpZ2h0TXVsdGlwbGVfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gByAABABI0BDAAAAAAAAEALSPD1naF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo2dpQV8QEE5TUGFyYWdyYXBoU3R5bGUjP/zMzMzMzM3SPD1sbV8QEk5TQXR0cmlidXRlZFN0cmluZ6JuQV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFxclRyb290gAEACAARABoAIwAtADIANwBZAF8AZgBvAHYAgwCFAIcAiQCQAJcAnwCqALIAtAC2ALgAugC8AL4AwADIAMoAzADOANAA0gDUANYA2AD6AQwBGAFDAXABgwGKAY8BrAGuAbABtwG6AbwBvgHBAcMBxQHHAd0B8wH8Ag4CEwIeAicCPQJBAk4CVwJcAm8CcgKFAo4ClwKeAqMCpQKnAqkCqwKwArICtAK2ArgCugK+AsQCyQLPAtQC1wLmAvEDCAMqAzwDTgNaA1wDXgNgA2kDawNwA4oDjgOhA6oDrwPEA8cD3APuA/ED9gAAAAAAAAIBAAAAAAAAAHMAAAAAAAAAAAAAAAAAAAP4"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2b1877da-fbd8-44e3-a7d0-753c8175ce1d",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 62,
+    "x": 34.953125,
+    "y": 1
+  },
+  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "button",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "textBehaviour": 0
+}
